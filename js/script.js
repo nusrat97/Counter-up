@@ -56,7 +56,6 @@ function typeJs(){
     if(count2==name.dataset.text.length+1){
         name.innerHTML=""
         count2=0
-        console.log(name.dataset.text.charAt(count2))
     }
 }
 
